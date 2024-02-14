@@ -1,0 +1,313 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media only screen and (max-width: 767px){
+
+    #logo{
+        height: 70px;
+        width: 590px;
+        background-color: #B97A57;
+        position: relative;
+        top:8px;
+        left: 7px;
+    }
+    #wrapper{
+        height: 1300px;
+        width: 600px;
+        background-color: #FFD9B7;
+        margin: 30px;
+       
+       
+        
+    }
+    #navigation{
+        min-height: 70px;
+        width: 590px;
+        background-color: #FF7F27;
+        position: relative;
+        top:10px;
+        left: 7px;
+        
+    }
+    #main_content{
+      
+        height: 300px;
+        width: 590px;
+        border: 80px;
+        background-color: #880015;
+        position: relative;
+        top: 10px;
+        left: 7px;
+    }
+    
+    #about{
+        min-height: 220px;
+        width: 530px;
+        background-color: #FFAEC9;
+        position: relative;
+        top:40px;
+        left:30px;
+        bottom:20px;
+       
+        
+    }
+    
+    #main{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 590px;
+        background-color: #FFFF88;
+        position: relative;
+        top:20px;
+        
+        left: 8px;
+       
+        
+    }
+    
+    #main2{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 590px;
+        background-color: #FFFF88;
+        position: relative;
+        top: 60px;
+        
+       
+    }
+
+    #main3{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 590px;
+        background-color: #FFFF88;
+        position: relative;
+        top: 70px;
+       
+        
+       
+    }
+}
+
+@media (min-width: 992px) {
+    
+    #logo{
+        height: 70px;
+        width: 310px;
+        background-color: #B97A57;
+        position: relative;
+        top:8px;
+        left: 7px;
+    }
+    #wrapper{
+        height: 660px;
+        width: 940px;
+        background-color: #FFD9B7;
+        margin: 30px;
+       
+       
+        
+    }
+    #navigation{
+        min-height: 70px;
+        width: 585px;
+        background-color: #FF7F27;
+        position: relative;
+        bottom: 63px;
+        left: 340px;
+        
+    }
+    #main_content{
+      
+        height: 300px;
+        width: 920px;
+        border: 80px;
+        background-color: #880015;
+        position: relative;
+        bottom: 40px;
+        left: 5px;
+    }
+    
+    #about{
+        min-height: 220px;
+        width: 830px;
+        background-color: #FFAEC9;
+        position: relative;
+        top:40px;
+        left:30px;
+        bottom:20px;
+       
+        
+    }
+
+    #advertisement{
+        min-height: 150px;
+        width: 120px;
+        background-color: blueviolet;
+        position: relative;
+        left:680px;
+        bottom: 150px;
+
+    }
+    
+    #main{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 300px;
+        background-color: #FFFF88;
+        position: relative;
+        top:10px;
+        bottom: 0px;
+        left: 10px;
+       
+        
+    }
+    
+    #main2{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 290px;
+        background-color: #FFFF88;
+        position: relative;
+        bottom: 0px;
+        left: 310px;
+       
+    }
+
+    #main3{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 300px;
+        background-color: #FFFF88;
+        position: relative;
+        bottom: 50px;
+       
+        left: 610px;
+       
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:991px) {
+    
+    #logo{
+        height: 70px;
+        width: 221px;
+        background-color: #B97A57;
+        position: relative;
+        top:5px;
+        left: 7px;
+    }
+    #wrapper{
+        height: 660px;
+        width: 730px;
+        background-color: #FFD9B7;
+        margin: 30px;
+       
+       
+        
+    }
+    #navigation{
+        height: 70px;
+        width: 470px;
+        background-color: #FF7F27;
+        position: relative;
+        bottom: 65px;
+        left: 250px;
+        
+    }
+    #main_content{
+      
+        height: 300px;
+        width: 720px;
+        border: 80px;
+        background-color: #880015;
+        position: relative;
+        bottom: 50px;
+        left: 5px;
+    }
+    
+    #about{
+        min-height: 230px;
+        width: 650px;
+        background-color: #FFAEC9;
+        position: relative;
+        top:30px;
+        left:35px;
+        bottom:25px;
+       
+        
+    }
+    
+    #main{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 310px;
+        background-color: #FFFF88;
+        position: relative;
+        bottom: 30px;
+        left: 5px;
+        
+        
+    }
+
+    #main2{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 390px;
+        background-color: #FFFF88;
+        position: relative;
+        bottom: 0px;
+        left: 330px;
+        
+        
+    }
+
+    #main3{
+        
+        min-height: 30px;
+        height: 50px;
+        width: 310px;
+        background-color: #FFFF88;
+        position: relative;
+        top:10px;
+        bottom: 0px;
+        left: 0px;
+        
+        
+    }
+
+
+    
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

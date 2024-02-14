@@ -1,0 +1,26 @@
+/*h1{
+    color:blue;
+
+} /*all h1 will be selected */
+
+/*.title {
+    background-color: aquamarine;
+} /* can select multiple elements with same class */
+
+
+
+/*#id-title {
+    font-family: 'Courier New', Courier, monospace;
+} /*only one can be selected */
+
+
+h3 {
+    width : 300px;
+    height : 120px;
+    background-color: gray;
+    padding: 6px 11px 4px 9px; /*top , right bottom, left*/
+    border: 3px dashed brown;
+    margin: 10px pink;
+    box-sizing: content-box;
+   
+}
